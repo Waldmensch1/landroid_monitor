@@ -1,0 +1,9 @@
+{
+    "localMQTTServer": "mqtt://192.168.178.46",
+    "localMQTTServer_port": 1883,
+    "mqtt_prefix": "myhome/garden/mower/",
+    "WorxUsername": "somebody@gmx.de",
+    "WorxPassword": "mypassword",
+    "filter_events": true,
+    "send_rawdata": true
+}
