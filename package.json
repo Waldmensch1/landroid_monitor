@@ -1,5 +1,5 @@
 {
-  "name": "landroid-monitor",
+  "name": "landroid_monitor",
   "version": "0.0.1",
   "description": "landroid data",
   "main": "app.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
+  "license": "GPL-3.0",
   "dependencies": {
     "circular-json": "^0.5.9",
     "mqtt": "^3.0.0",
